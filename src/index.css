@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+}
+
+#root {
+  height: 100vh;
+  background-color: #EBEBEB;
+  padding: 50px;
+}
+
+p {
+  font-size: small;
+}
+
